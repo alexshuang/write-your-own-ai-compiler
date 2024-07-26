@@ -8,6 +8,7 @@
 - 中后端
   - [熟悉MLIR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/06_%E7%86%9F%E6%82%89MLIR.md)
 
+---
 
 # 前言：从0到1写自己的AI编译器
 你好，我是A君，一名AI从业者，最近几年，我一直在研究深度学习框架和编译器这些底层技术。
