@@ -9,6 +9,7 @@
   - [熟悉MLIR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/06_%E7%86%9F%E6%82%89MLIR.md)
   - [熟悉FleetCompilerIR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/07_%E7%86%9F%E6%82%89FleetCompilerIR.md)
   - [从AST到IR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/08_%E4%BB%8EAST%E5%88%B0IR.md)
+  - [IR转换](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/09_IR%E8%BD%AC%E6%8D%A2.md)
 
 ---
 
