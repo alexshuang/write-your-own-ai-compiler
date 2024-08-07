@@ -5,12 +5,13 @@
   - [语法分析](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/03_%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90.md)
   - [语义分析](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/04_%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90.md)
   - [AST运行时](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/05_AST%E8%BF%90%E8%A1%8C%E6%97%B6.md)
-- 中后端
+- 中端
   - [熟悉MLIR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/06_%E7%86%9F%E6%82%89MLIR.md)
   - [熟悉FleetCompilerIR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/07_%E7%86%9F%E6%82%89FleetCompilerIR.md)
   - [从AST到IR](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/08_%E4%BB%8EAST%E5%88%B0IR.md)
   - [IR转换](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/09_IR%E8%BD%AC%E6%8D%A2.md)
   - [Shape inference](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/10_Shape%20Inference.md)
+  - [Canonicalize](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/11_Canonicalize.md)
 
 ---
 
