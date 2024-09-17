@@ -34,11 +34,11 @@ SYCL（发音为“sickle”）的编程模型和 CUDA 是比较相似的，是�
 
 本质上讲 SYCL 只是一套异构计算的 API，它还需要一个实现：oneAPI。oneAPI 由英特尔发起，并由UXL Foundation管理，通过对SYCL的实现和扩展，提供了一个统一的多架构编程环境。[Intel oneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html#analytics-kit) 、[oneAPI construction kit](https://developer.codeplay.com/products/oneapi/construction-kit/4.0.0/guides/overview/introduction/architecture) 和 [oneapi-src](https://github.com/oneapi-src) 为开发 SYCL 程序提供一系列编译器、运行时、调试工具和针对 AI 的高性能计算库。
 
-fleet compiler 会用它们开发 x86 / RISC-V 目标架构的算子库。
+fleet compiler 会用它们开发 x86 / RISC-V 目标架构的算子库。CUDA 的生态相对完善，因此 SYCL 算子更多是要从 CUDA 迁移过来（[SYCLomatic](https://github.com/oneapi-src/SYCLomatic)）。
 
 # CUDA
 
-虽然 SYCL / oneAPI 也支持 GPU 后端，但在 Nvidia GPU 上做开发最优选择当然还是它自家的 CUDA。关于 CUDA 编程这里就不赘述了。
+虽然 oneAPI 也称 GPU 后端，但在 Nvidia GPU 上做开发首选还是 CUDA / cutlass，关于 CUDA 编程这里就不赘述了。
 
 # LLVM
 
