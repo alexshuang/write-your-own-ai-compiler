@@ -12,6 +12,7 @@
   - [IR转换](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/09_IR%E8%BD%AC%E6%8D%A2.md)
   - [Shape inference](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/10_Shape%20Inference.md)
   - [Canonicalize](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/11_Canonicalize.md)
+  - [TargetBackend](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/12_TargetBackend.md)
 
 ---
 
