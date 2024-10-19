@@ -17,6 +17,7 @@
   - [生成字节码](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/14_%E7%94%9F%E6%88%90%E5%AD%97%E8%8A%82%E7%A0%81.md)
 - 运行时
   - [设计虚拟机](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/13_%E8%AE%BE%E8%AE%A1%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
+  - [python版本虚拟机](https://github.com/alexshuang/write-your-own-ai-compiler/blob/main/15_python%E7%89%88%E6%9C%AC%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
 
 ---
 
